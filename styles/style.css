@@ -1,3 +1,6 @@
 html {
     color: aqua;
 }
+.nav nav-pills nav-fill{
+    background-color: grey;
+}
